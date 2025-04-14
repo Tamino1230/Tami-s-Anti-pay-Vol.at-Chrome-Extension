@@ -5,9 +5,9 @@
     "author": "github.com/Tamino1230",
     "description": "Removes the Paid Articles on Vol.at",
     "icons": {
-        "32": "images/icon-32.png",
-        "48": "images/icon-64.png",
-        "128": "images/icon-128.png"
+        "32": "images/icon32.png",
+        "48": "images/icon64.png",
+        "128": "images/icon128.png"
     },
     "content_scripts": [
         {
