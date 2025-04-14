@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Tami's (Vol.at) Paid Remover",
     "version": "1.0",
-    "description": "Add the reading time to Chrome Extension documentation articles",
+    "description": "Removes the Paid Articles on Vol.at",
     "icons": {
         "32": "images/icon-32.png",
         "48": "images/icon-64.png",
